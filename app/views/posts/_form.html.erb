@@ -18,7 +18,8 @@
 
   <div class="field">
     <%= f.label :body %>
-    <%= f.text_area :body %>
+    <%= f.cktext_area :body, :ckeditor => { toolbar: 'Pure' } %>
+    <!--  -->
   </div>
 
   <div class="field">
