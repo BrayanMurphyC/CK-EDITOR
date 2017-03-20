@@ -56,7 +56,7 @@ config.skin = 'office2013';
       items: ['Cut', 'Copy', 'Paste', 'PasteText','PasteFromWord', '-', 'Undo', 'Redo', 'Scayt']
     }, {
       name: 'tools',
-      items: ['Maximize','Source','VideoDetector']
+      items: ['Maximize','Source','VideoDetector','Smiley','Tableresize']
     }
 
 
